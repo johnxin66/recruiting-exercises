@@ -18,3 +18,4 @@ Jokes aside, I know Deliverr have much better systems and I do like to work with
 
 ### Test cases
 I've written test cases that covers both simple and complex cases, including cases with invalid inputs. The result shows that my code works.
+To run the test cases, open the project in Intellij, add junit 4 to the path, and hit the green run button.
