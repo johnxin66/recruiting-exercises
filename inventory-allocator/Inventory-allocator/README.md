@@ -17,4 +17,4 @@ Hire me and I'll finish & test the concurrent code ;)
 Jokes aside, I know Deliverr have much better systems and I do like to work with y'all
 
 ### Test cases
-I've 
+I've written test cases that covers both simple and complex cases, including cases with invalid inputs. The result shows that my code works.
